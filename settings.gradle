@@ -1,0 +1,2 @@
+include ':app', ':advmeds-device-management_lib'
+rootProject.name='Device-management_demo'

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--更多 同步設備-->
+    <string name="more_ble_connect_title">您要設定哪個設備?</string>
+    <string name="more_ble_connect_pressure">血壓機</string>
+    <string name="more_ble_connect_weight">體重計</string>
+    <string name="more_ble_connect_temperature">體溫計</string>
+    <string name="more_ble_connect_blood_o2">血氧機</string>
+    <string name="more_ble_connect_blood_sugar">血糖機</string>
+    <string name="text_ketone">血酮</string>
+    <string name="text_cholesterol">膽固醇</string>
+    <string name="text_uric_acid">尿酸</string>
+    <string name="text_grip_str">握力</string>
+
+    <string name="more_ble_connect_your_device">您使用的</string>
+    <string name="more_ble_connect_your_device_what">您使用的是哪台</string>
+    <string name="more_ble_connect_pair">配對</string>
+    <string name="more_ble_connect_search">重新配對設備</string>
+
+    <!--更多 同步設備 設備名字-->
+
+    <!--更多 同步設備 設備抬頭-->
+    <!--    血壓-->
+    <string name="more_ble_txt_d40_and_td3261_title">FORA D40B / TaiDoc TD-3261B配對說明：</string>
+    <string name="more_ble_txt_p30_and_td3129_title">FORA P30B / TaiDoc TD-3129B配對說明：</string>
+    <string name="more_ble_txt_p80_and_td3140_title">FORA P80 / TaiDoc TD-3140配對說明：</string>
+    <string name="more_ble_txt_td3128_title">TaiDoc TD-3128配對說明：</string>
+    <!--    體重-->
+    <string name="more_ble_txt_td2555_title">TaiDoc TD-2555配對說明：</string>
+    <!--    額溫-->
+    <string name="more_ble_txt_bf4030_title">BF4030配對說明：</string>
+    <string name="more_ble_txt_ir40_and_td1241_title">FORA IR40 / TaiDoc TD-1241配對說明：</string>
+    <string name="more_ble_txt_td1261_title">TaiDoc TD-1261配對說明：</string>
+    <string name="more_ble_txt_td1035_title">TaiDoc TD-1035配對說明：</string>
+    <string name="more_ble_txt_ir42_and_td1242_title">FORA IR42B / TaiDoc TD-1242配對說明：</string>
+    <!--    血氧-->
+    <string name="more_ble_txt_td8255_title">FORA O2 / TaiDoc TD-8255配對說明：</string>
+    <string name="more_ble_txt_td8201_title">TaiDoc TD-8201配對說明：</string>
+    <!--    血糖-->
+    <string name="more_ble_txt_td4257_title">TaiDoc TD-4257配對說明：</string>
+    <string name="more_ble_txt_gd40_and_td4272_title">FORA GD40B / TaiDoc TD-4272B配對說明：</string>
+    <!--        同血壓設備 FORA D40B / TaiDoc TD-3261B-->
+    <string name="more_ble_txt_td4216_title">TaiDoc TD-4216配對說明：</string>
+    <string name="more_ble_txt_dsp_combo_title">DSP Combo Sensor配對說明：</string>
+
+    <!--    尿酸-->
+    <string name="more_ble_txt_td4141_title">TaiDoc TD-4141配對說明：</string>
+    <string name="more_ble_txt_td4206_title">TaiDoc TD-4206配對說明：</string>
+    <!--        同血糖設備 TaiDoc TD-4216-->
+    <!--    血酮-->
+    <!--        同尿酸設備 TaiDoc TD-4206-->
+    <!--    膽固醇-->
+    <!--        目前暫無設備-->
+
+
+    <!--更多 同步設備 設備說明-->
+    <!--    血壓-->
+    <string name="more_ble_txt_d40_and_td3261_pressure">1. 請先確認血壓機的電源是關的\n2. 按血壓機螢幕右下方的無線傳輸按鈕，螢幕即會顯示”PCL”\n3. 按下頁面下方的「開始配對」</string>
+    <string name="more_ble_txt_p30_and_td3129">1. 請先確認血壓機的電源是關的\n2. 按血壓機螢幕右下方的無線傳輸按鈕，螢幕即會顯示”PCL”\n3. 按下頁面下方的「開始配對」</string>
+    <string name="more_ble_txt_p80_and_td3140">1. 請先確認血壓機的電源是關的\n2. 按血壓機下方的藍色按鈕，螢幕即會顯示”PCL”\n3. 按頁面下方的「開始配對」</string>
+    <string name="more_ble_txt_td3128">1. 請先確認血壓機的電源是關的\n2. 長按血壓機左上方的「Ｍ」按鈕，直到螢幕顯示”PCL”\n3. 按頁面下方的「開始配對」</string>
+    <!--    體重-->
+    <string name="more_ble_txt_td2555">1. 請先確認體重機的電源是關的\n2. 長按體重機上的「SET」按鈕，直到螢幕顯示藍牙圖示\n3. 按頁面下方的「開始配對」</string>
+    <!--    額溫-->
+    <string name="more_ble_txt_bf4030">1. 請開啟體溫計電源\n2. 按頁面下方的「開始配對」</string>
+    <string name="more_ble_txt_ir40_and_td1241">1. 請開啟體溫計電源並量測後，左上方藍色LED燈會開始閃爍\n2. 按頁面下方的「開始配對」</string>
+    <string name="more_ble_txt_td1261">1. 請開啟體溫計電源並量測完畢後，下方藍色LED燈會開始閃爍\n2. 按頁面下方的「開始配對」</string>
+    <string name="more_ble_txt_td1035">1. 請開啟體溫計電源\n2. 按頁面下方的「開始配對」</string>
+    <string name="more_ble_txt_ir42_and_td1242">1. 請啟動體溫計，並進行一次測量(需對著皮膚測量)，直至畫面上方出現藍芽符號，即為可偵測狀態。\n2. 按頁面下方的「開始配對」</string>
+    <!--    血氧-->
+    <string name="more_ble_txt_td8255">1. 請開啟血氧機電源，血氧機左上方藍色LED燈會開始閃爍\n2. 按頁面下方的「開始配對」</string>
+    <string name="more_ble_txt_td8201">1. 請開啟血氧機電源，血氧機左上方藍色LED燈會開始閃爍\n2. 按頁面下方的「開始配對」</string>
+    <!--    血糖-->
+    <string name="more_ble_txt_td4257">1. 請開啟血糖機電源並量測後，左上方藍色LED燈會開始閃爍 ; 或按血糖機中間按鈕呼叫所有記錄直到出現OFF，血糖機左上方藍色LED燈會開始閃爍\n2. 按頁面下方的「開始配對」</string>
+    <string name="more_ble_txt_gd40_and_td4272">1. 請先確認血糖機的電源是關的\n2. 將血糖機左側的開關往下拉一下，螢幕左上方的藍色LED燈會開始閃爍\n3. 按頁面下方的「開始配對」</string>
+    <string name="more_ble_txt_d40_and_td3261_sugar">1. 請先確認血糖機的電源是關的\n2. 按血糖機螢幕右下方的無線傳輸按鈕，螢幕即會顯示”PCL”\n3. 按下頁面下方的「開始配對」</string>
+    <string name="more_ble_txt_td4216_sugar">1. 輕按尿酸計右下方按鈕，螢幕即會顯示”BLE”，上方藍色LED燈會開始閃爍\n2. 按頁面下方的「開始配對」</string>
+    <string name="more_ble_txt_dsp_combo">1. 請開啟血糖機電源， 右側藍色LED燈亮起\n2. 按頁面下方的「開始配對」</string>
+
+    <!--    尿酸-->
+    <string name="more_ble_txt_td4141">1. 將藍牙接收器插入尿酸計，接收器上方藍色LED燈會開始閃爍，且螢幕出現”PC”\n2. 按頁面下方的「開始配對」</string>
+    <string name="more_ble_txt_td4206_uric_acid">1. 將藍牙接收器插入尿酸計，接收器上方藍色LED燈會開始閃爍，且螢幕出現”PC”\n2. 按頁面下方的「開始配對」</string>
+    <string name="more_ble_txt_td4216_uric_acid">1. 輕按尿酸計右下方按鈕，螢幕即會顯示”BLE”，上方藍色LED燈會開始閃爍\n2. 按頁面下方的「開始配對」</string>
+    <!--    血酮-->
+    <string name="more_ble_txt_td4206_ketone">1. 將藍牙接收器插入血酮機，接收器上方藍色LED燈會開始閃爍，且螢幕出現”PC”\n2. 按頁面下方的「開始配對」</string>
+    <!--    膽固醇-->
+    <!--    目前暫無設備-->
+
+
+    <string name="now_pair_device">當前裝置%s</string>
+    <string name="txt_pair_start">開始配對</string>
+
+    <string name="dialog_message_please_reboot_or_measure_again">請重啟設備電源或重新量測，並按頁面中的「連結設備」。</string>
+
+</resources>

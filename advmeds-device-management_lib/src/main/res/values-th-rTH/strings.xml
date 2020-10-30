@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="more_ble_connect_title">คุณต้องการซิงค์อุปกรณ์ใด</string>
+    <string name="more_ble_connect_pressure">เครื่องวัดความดันโลหิต</string>
+    <string name="more_ble_connect_weight">เครื่องชั่งน้ำหนัก</string>
+    <string name="more_ble_connect_temperature">เครื่องวัดอุณหภูมิ</string>
+    <string name="more_ble_connect_blood_o2">เครื่องผลิตออกซิเจน</string>
+    <string name="more_ble_connect_blood_sugar">เครื่องวัดระดับน้ำตาลในเลือด</string>
+    <string name="text_ketone">Ketone</string>
+    <string name="text_cholesterol">Cholesterol</string>
+    <string name="text_grip_str">Grip strength</string>
+    <string name="text_uric_acid">Uric acid</string>
+
+    <string name="more_ble_connect_your_device">คุณใช้</string>
+    <string name="more_ble_connect_your_device_what">สิ่งที่คุณกำลังใช้</string>
+    <string name="more_ble_connect_pair">จับคู่</string>
+    <string name="more_ble_connect_search">อุปกรณ์ที่จับคู่ใหม่อีกครั้ง</string>
+    <!--更多 同步設備 設備名字-->
+
+    <!--更多 同步設備 設備抬頭-->
+    <!--    血壓-->
+    <string name="more_ble_txt_d40_and_td3261_title">คำแนะนำการจับคู่ FORA D40B / TaiDoc TD-3261B:</string>
+    <string name="more_ble_txt_p30_and_td3129_title">คำแนะนำการจับคู่ FORA P30B / TaiDoc TD-3129B:</string>
+    <string name="more_ble_txt_p80_and_td3140_title">คำแนะนำการจับคู่ FORA P80 / TaiDoc TD-3140:</string>
+    <string name="more_ble_txt_td3128_title">คำแนะนำการจับคู่ TaiDoc TD-3128:</string>
+    <!--    體重-->
+    <string name="more_ble_txt_td2555_title">คำแนะนำการจับคู่ TaiDoc TD-2555:</string>
+    <!--    額溫-->
+    <string name="more_ble_txt_bf4030_title">คำแนะนำการจับคู่ BF4030:</string>
+    <string name="more_ble_txt_ir40_and_td1241_title">คำแนะนำการจับคู่ FORA IR40 / TaiDoc TD-1241:</string>
+    <string name="more_ble_txt_td1261_title">คำแนะนำการจับคู่ TaiDoc TD-1261:</string>
+    <string name="more_ble_txt_td1035_title">คำแนะนำการจับคู่ TaiDoc TD-1035:</string>
+    <string name="more_ble_txt_ir42_and_td1242_title">คำแนะนำการจับคู่ FORA IR42B / TaiDoc TD-1242:</string>
+    <!--    血氧-->
+    <string name="more_ble_txt_td8255_title">คำแนะนำการจับคู่ FORA O2 / TaiDoc TD-8255:</string>
+    <string name="more_ble_txt_td8201_title">คำแนะนำการจับคู่ TaiDoc TD-8201:</string>
+    <!--    血糖-->
+    <string name="more_ble_txt_td4257_title">คำแนะนำการจับคู่ TaiDoc TD-4257:</string>
+    <string name="more_ble_txt_gd40_and_td4272_title">คำแนะนำการจับคู่ FORA GD40:</string>
+    <!--    同血壓設備 FORA D40B / TaiDoc TD-3261B-->
+    <string name="more_ble_txt_td4216_title">คำแนะนำการจับคู่ TaiDoc TD-4216:</string>
+    <string name="more_ble_txt_dsp_combo_title">คำแนะนำการจับคู่ DSP Combo Sensor:</string>
+
+    <!--    尿酸-->
+    <string name="more_ble_txt_td4141_title">คำแนะนำการจับคู่ TaiDoc TD-4141:</string>
+    <string name="more_ble_txt_td4206_title">คำแนะนำการจับคู่ TaiDoc TD-4206:</string>
+    <!--    同血糖設備 TaiDoc TD-4216-->
+    <!--    血酮-->
+    <!--    同尿酸設備 TaiDoc TD-4206-->
+    <!--    膽固醇-->
+    <!--    目前暫無設備-->
+
+
+    <!--更多 同步設備 設備說明-->
+
+    <!--    血壓-->
+    <string name="more_ble_txt_d40_and_td3261_pressure">1. เครื่องวัดความดันโลหิตให้แน่ใจว่ากำลังปิด \n2. กดปุ่มส่งสัญญาณความดันโลหิตแบบไร้สายในเครื่องด้านล่างขวาหน้าจอจะแสดง "PCL" \n3. กดด้านบนขวาของ "จับคู่"</string>
+    <string name="more_ble_txt_p30_and_td3129">1. เครื่องวัดความดันโลหิตให้แน่ใจว่ากำลังปิด \n2. กดปุ่มส่งสัญญาณความดันโลหิตแบบไร้สายในเครื่องด้านล่างขวาหน้าจอจะแสดง "PCL" \n3. กดด้านบนขวาของ "จับคู่"</string>
+    <string name="more_ble_txt_p80_and_td3140">1. เครื่องวัดความดันโลหิตให้แน่ใจว่ากำลังปิด \n2. กดปุ่มด้านล่างเครื่องความดันโลหิตสีน้ำเงินหน้าจอจะแสดง "PCL" \n3. กดด้านบนขวาของ "จับคู่"</string>
+    <string name="more_ble_txt_td3128">1. ตรวจสอบให้แน่ใจว่ากำลังปิดเครื่องความดันโลหิต \n2. กดและเครื่องวัดความดันโลหิตที่ด้านบนซ้ายของปุ่ม "M" จนกระทั่งหน้าจอแสดงผล "PCL" \n3. กดด้านบนขวาของ "การจับคู่"</string>
+    <!--    體重-->
+    <string name="more_ble_txt_td2555">1. ตรวจสอบให้แน่ใจว่ากำลังปิดเครื่องน้ำหนัก \n2. กดปุ่ม "SET" บนเครื่องชั่งน้ำหนักจนกระทั่งหน้าจอแสดงไอคอน Bluetooth \n3. กดด้านบนขวาของ "การจับคู่"</string>
+    <!--    額溫-->
+    <string name="more_ble_txt_bf4030">1. เปิดเทอร์โมมิเตอร์วัดพลังงาน \n2. กดด้านบนขวาของ "การจับคู่"</string>
+    <string name="more_ble_txt_ir40_and_td1241">1. เปิดการวัดพลังงานและเทอร์โมมิเตอร์ LED สีน้ำเงินด้านบนซ้ายจะเริ่มกะพริบ \n2. กดด้านบนขวาของ "การจับคู่"</string>
+    <string name="more_ble_txt_td1261">1. เปิดเครื่องและการวัดอุณหภูมิเสร็จสิ้นแล้วไฟ LED สีน้ำเงินด้านล่างจะเริ่มกะพริบ \n2. กดด้านบนขวาของ "การจับคู่"</string>
+    <string name="more_ble_txt_td1035">1. เปิดเทอร์โมมิเตอร์วัดพลังงาน \n2. กดด้านบนขวาของ "การจับคู่"</string>
+    <string name="more_ble_txt_ir42_and_td1242">1. Please turn on the thermometer,and measure once( needing against to skin), until the upper left corner of thermometer screen appear blue tooth symbol.\n2. Then it is in detectable state,please tap on the "Pair" button at upper right corner of this page.</string>
+    <!--    血氧-->
+    <string name="more_ble_txt_td8255">1. เปิดเครื่องกำลังออกซิเจนเครื่องออกซิเจนที่ LED สีน้ำเงินด้านบนซ้ายจะเริ่มกะพริบ \n2. กดด้านบนขวาของ "การจับคู่"</string>
+    <string name="more_ble_txt_td8201">1. เปิดเครื่องและการวัดอุณหภูมิเสร็จสิ้นแล้วไฟ LED สีน้ำเงินด้านล่างจะเริ่มกะพริบ \n2. กดด้านบนขวาของ "การจับคู่"</string>
+    <!--    血糖-->
+    <string name="more_ble_txt_td4257">1. เปิดเครื่องวัดระดับน้ำตาลในเลือดที่ด้านบนซ้ายของไฟ LED สีฟ้าจะเริ่มกระพริบ; เครื่องกลูโคสหรือกดปุ่มปิดกลางจนกระทั่งการโทรที่บันทึกไว้ทั้งหมดเครื่องวัดระดับน้ำตาลในเลือดจะเริ่มกระพริบที่ด้านบนซ้ายของ LED สีน้ำเงิน \n2. กดที่หน้าขวาบน งานปาร์ตี้ "การจับคู่"</string>
+    <string name="more_ble_txt_gd40_and_td4272">1. กลูโคสในเลือดตรวจสอบให้แน่ใจว่ากำลังปิด \n2. หน่วยสวิตช์ด้านซ้ายดึงน้ำตาลกลูโคสลงที่ด้านซ้ายบนของหน้าจอของไฟ LED สีน้ำเงินจะเริ่มกะพริบ \n3. กดด้านบนขวาของ "จับคู่"</string>
+    <string name="more_ble_txt_d40_and_td3261_sugar">1. กลูโคสในเลือดตรวจสอบให้แน่ใจว่ากำลังปิด \n2. กดการส่งสัญญาณไร้สายของหน้าจอเครื่องวัดระดับน้ำตาลในเลือดปุ่มล่างขวาหน้าจอจะแสดง "PCL" \n3. กดด้านบนขวาของ "จับคู่"</string>
+    <string name="more_ble_txt_td4216_sugar">Press the bottom right button of blood glucose measurement, and its screen will appear "BLE". The blue LED light at the upper corner will start twinkling,then please tap on the "Pair" button at upper right corner of this page.</string>
+    <string name="more_ble_txt_dsp_combo">1. Turn on the power machine and the blood glucose measurement, the left of the blue LED light will start flashing; glucose machine or press the center button OFF until all logged calls occur, blood glucose meters will start flashing in the upper left of the blue LED\n2. press the upper right page. party "pairing"</string>
+    <!--    尿酸-->
+    <string name="more_ble_txt_td4141">Put blue tooth dongle into the uric acid meter, the blue LED of the dongle will start twinkling and the screen will appear "PC". Then please tap on the "Pair" button at upper right corner of this page.</string>
+    <string name="more_ble_txt_td4206_uric_acid">Put blue tooth dongle into the uric acid meter, the blue LED of the dongle will start twinkling and the screen will appear "PC". Then please tap on the "Pair" button at upper right corner of this page.</string>
+    <string name="more_ble_txt_td4216_uric_acid">Press the bottom right button of uric acid meter, and its screen will appear "BLE". The blue LED light at the upper corner will start twinkling,then please tap on the "Pair" button at upper right corner of this page.</string>
+    <!--    血酮-->
+    <string name="more_ble_txt_td4206_ketone">Put blue tooth dongle into the ketone meter, the blue LED of the dongle will start twinkling and the screen will appear "PC". Then please tap on the "Pair" button at upper right corner of this page.</string>
+    <!--    膽固醇-->
+    <!--    目前暫無設備-->
+    <string name="now_pair_device">อุปกรณ์ปัจจุบัน %s</string>
+    <string name="txt_pair_start">Start pairing</string>
+
+    <string name="dialog_message_please_reboot_or_measure_again">Please turn on the device power again and re-measure,then click「Connect to Device」on the page</string>
+
+</resources>
