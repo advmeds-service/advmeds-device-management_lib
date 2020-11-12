@@ -76,7 +76,13 @@ public enum BtDeviceListEnum {
 
     TD4206_KETONE(BLE_TD4206, BLE_TD4206_SEARCH, BLE_TD4206_CONNECT, R.string.more_ble_txt_td4206_title,
             R.string.more_ble_txt_td4206_ketone, R.drawable.img_tai_doc_td_4206),
+    Imedi_Plus_DS101(BLE_IMEDI_PLUS_DS101, BLE_IMEDI_PLUS_DS101_SEARCH, BLE_IMEDI_PLUS_DS101_CONNECT, R.string.more_ble_txt_imedi_plus_ds_101_title,
+            R.string.more_ble_txt_imedi_plus_ds_101, R.drawable.img_imedi_ds_101),
+    ACR3901U_S1(BLE_ACR3901U_S1, BLE_ACR3901U_S1_SEARCH, BLE_ACR3901U_S1_CONNECT, R.string.more_ble_txt_acr_3901u_s1_title,
+            R.string.more_ble_txt_acr_3901u_s1, R.drawable.img_acr_3901_u_s_1),
     ;
+
+
 
     String deviceName;
 

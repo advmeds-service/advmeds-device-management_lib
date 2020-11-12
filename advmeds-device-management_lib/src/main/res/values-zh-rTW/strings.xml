@@ -93,4 +93,19 @@
 
     <string name="dialog_message_please_reboot_or_measure_again">請重啟設備電源或重新量測，並按頁面中的「連結設備」。</string>
 
+    <!--    照護包-->
+    <string name="device_temperature_second">第二支體溫計</string>
+    <string name="device_grip">握力</string>
+    <string name="device_waist">腰圍</string>
+    <string name="device_stethoscope">聽診器</string>
+    <string name="device_card_reader">讀卡機</string>
+
+    <!--    聽診器-->
+    <string name="more_ble_txt_imedi_plus_ds_101_title">Imedi Plus DS101配對說明：</string>
+    <string name="more_ble_txt_imedi_plus_ds_101">1. 請開啟聽診器電源\n2. 按頁面下方的「開始配對」</string>
+    <!--    讀卡機-->
+    <string name="more_ble_txt_acr_3901u_s1_title">ACR3901U-S1配對說明：</string>
+    <string name="more_ble_txt_acr_3901u_s1">1. 將側邊的電源切換至藍牙圖案處，藍色燈號閃爍時為啟用狀態/n2. 按頁面下方的「重新配對」</string>
+
+
 </resources>
