@@ -107,5 +107,16 @@
     <string name="more_ble_txt_acr_3901u_s1_title">ACR3901U-S1配對說明：</string>
     <string name="more_ble_txt_acr_3901u_s1">1. 將側邊的電源切換至藍牙圖案處，藍色燈號閃爍時為啟用狀態\n2. 按頁面下方的「重新配對」</string>
 
+    <!--    藍芽設備操作說明-->
+    <string name="operation_info_taidoc_global">正在自動獲取量測數值，您也可以改為使用手動輸入。</string>
 
+    <string name="operation_info_bf4030">額溫槍螢幕下方「Σ」恆亮表示已連結，請直接進行測量，以取得數值。</string>
+
+    <string name="operation_info_taidoc_meter">請確認設備中已有量測資料，正在自動獲取最新一筆量測數值，您也可以改為使用手動輸入。</string>
+
+    <string name="operation_info_dspcombo">請開啟血糖機電源， 左側藍色LED燈開始閃爍後請直接放入手指。</string>
+
+    <string name="operation_card_reader_info">正在自動連結讀卡機，您也可以暫時先略過。</string>
+
+    <string name="operation_info_ds_101">正在自動獲取量測數值。</string>
 </resources>

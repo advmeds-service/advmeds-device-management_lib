@@ -101,6 +101,17 @@
     <!--    讀卡機-->
     <string name="more_ble_txt_acr_3901u_s1_title">ACR3901U-S1 instructions:</string>
     <string name="more_ble_txt_acr_3901u_s1">1. Move the switch aside to Bluetooth sign. The blue light flashes as activated.\n2. Tap "Start pairing again" at the bottom of this page</string>
+    //藍芽設備操作說明
+    <string name="operation_info_taidoc_global">It\'s accessing to grabbing data of your results or you can type it in by yourself.</string>
 
+    <string name="operation_info_bf4030">Showing “Σ” on the bottom of the screen of forehead thermometer means connected. Please operate directly to produce your records. </string>
+
+    <string name="operation_info_taidoc_meter" >Please confirm your device already have measurement data,and It\'s accessing to grabing the latest one or you can type it in by yourself</string>
+
+    <string name="operation_info_dspcombo">Please turn on the power of the blood glucose meter. When the left blue LED starts flashing, please put in your finger directly and let it stay for about one minute.</string>
+
+    <string name="operation_info_ds_101">It\'s accessing to grabbing data of your results.</string>
+
+    <string name="operation_card_reader_info">It’s connecting to a card reader. Or you can skip it for the time being. </string>
 
 </resources>
