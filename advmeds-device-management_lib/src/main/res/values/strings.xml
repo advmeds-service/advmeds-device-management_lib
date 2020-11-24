@@ -55,7 +55,7 @@
     <!--更多 同步設備 設備說明-->
     <!--    血壓-->
     <string name="more_ble_txt_d40_and_td3261_pressure">1. blood pressure machine make sure the power is off\n2. Press the button wireless transmission of blood pressure in the lower right-screen machine, the screen is displayed "PCL"\n3. Press the top right of the "pair"</string>
-    <string name="more_ble_txt_p30_and_td3129">1. blood pressure machine make sure the power is off\n2. Press the button wireless transmission of blood pressure in the lower right-screen machine, the screen is displayed "PCL"\n3. Press the top right of the "pair"</string>
+    <string name="more_ble_txt_p30_and_td3129">1. Tap the button “M” on the panel for 5 seconds to see the blue light flashing on the top of the screen of blood pressure gauge. Now the gauge is detectable.\n2. Tap "Start pairing" at the bottom of this page.</string>
     <string name="more_ble_txt_p80_and_td3140">1. blood pressure machine make sure the power is off\n2. Press the button below the blue blood pressure machine, the screen is displayed "PCL"\n3. Press the top right of the "pair"</string>
     <string name="more_ble_txt_td3128">1. make sure the power is off blood pressure machine\n2. Press and blood pressure machine at the top left of the "M" button until the screen display "PCL"\n3. Press the top right of the "pairing"</string>
     <!--    體重-->
@@ -101,7 +101,7 @@
     <!--    讀卡機-->
     <string name="more_ble_txt_acr_3901u_s1_title">ACR3901U-S1 instructions:</string>
     <string name="more_ble_txt_acr_3901u_s1">1. Move the switch aside to Bluetooth sign. The blue light flashes as activated.\n2. Tap "Start pairing again" at the bottom of this page</string>
-    //藍芽設備操作說明
+    //藍牙設備操作說明
     <string name="operation_info_taidoc_global">It\'s accessing to grabbing data of your results or you can type it in by yourself.</string>
 
     <string name="operation_info_bf4030">Showing “Σ” on the bottom of the screen of forehead thermometer means connected. Please operate directly to produce your records. </string>

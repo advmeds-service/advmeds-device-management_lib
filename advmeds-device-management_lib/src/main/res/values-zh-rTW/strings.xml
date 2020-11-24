@@ -57,7 +57,7 @@
     <!--更多 同步設備 設備說明-->
     <!--    血壓-->
     <string name="more_ble_txt_d40_and_td3261_pressure">1. 請先確認血壓機的電源是關的\n2. 按血壓機螢幕右下方的無線傳輸按鈕，螢幕即會顯示”PCL”\n3. 按下頁面下方的「開始配對」</string>
-    <string name="more_ble_txt_p30_and_td3129">1. 請先確認血壓機的電源是關的\n2. 按血壓機螢幕右下方的無線傳輸按鈕，螢幕即會顯示”PCL”\n3. 按下頁面下方的「開始配對」</string>
+    <string name="more_ble_txt_p30_and_td3129">1. 長壓面板上的「M」按鈕 5 秒，直至血壓計螢幕上方閃爍藍色燈號，此時血壓計為可偵測狀態\n2. 按頁面下方的「開始配對」</string>
     <string name="more_ble_txt_p80_and_td3140">1. 請先確認血壓機的電源是關的\n2. 按血壓機下方的藍色按鈕，螢幕即會顯示”PCL”\n3. 按頁面下方的「開始配對」</string>
     <string name="more_ble_txt_td3128">1. 請先確認血壓機的電源是關的\n2. 長按血壓機左上方的「Ｍ」按鈕，直到螢幕顯示”PCL”\n3. 按頁面下方的「開始配對」</string>
     <!--    體重-->
@@ -67,7 +67,7 @@
     <string name="more_ble_txt_ir40_and_td1241">1. 請開啟體溫計電源並量測後，左上方藍色LED燈會開始閃爍\n2. 按頁面下方的「開始配對」</string>
     <string name="more_ble_txt_td1261">1. 請開啟體溫計電源並量測完畢後，下方藍色LED燈會開始閃爍\n2. 按頁面下方的「開始配對」</string>
     <string name="more_ble_txt_td1035">1. 請開啟體溫計電源\n2. 按頁面下方的「開始配對」</string>
-    <string name="more_ble_txt_ir42_and_td1242">1. 請啟動體溫計，並進行一次測量(需對著皮膚測量)，直至畫面上方出現藍芽符號，即為可偵測狀態。\n2. 按頁面下方的「開始配對」</string>
+    <string name="more_ble_txt_ir42_and_td1242">1. 請啟動體溫計，並進行一次測量(需對著皮膚測量)，直至畫面上方出現藍牙符號，即為可偵測狀態。\n2. 按頁面下方的「開始配對」</string>
     <!--    血氧-->
     <string name="more_ble_txt_td8255">1. 請開啟血氧機電源，血氧機左上方藍色LED燈會開始閃爍\n2. 按頁面下方的「開始配對」</string>
     <string name="more_ble_txt_td8201">1. 請開啟血氧機電源，血氧機左上方藍色LED燈會開始閃爍\n2. 按頁面下方的「開始配對」</string>
@@ -107,7 +107,7 @@
     <string name="more_ble_txt_acr_3901u_s1_title">ACR3901U-S1配對說明：</string>
     <string name="more_ble_txt_acr_3901u_s1">1. 將側邊的電源切換至藍牙圖案處，藍色燈號閃爍時為啟用狀態\n2. 按頁面下方的「重新配對」</string>
 
-    <!--    藍芽設備操作說明-->
+    <!--    藍牙設備操作說明-->
     <string name="operation_info_taidoc_global">正在自動獲取量測數值，您也可以改為使用手動輸入。</string>
 
     <string name="operation_info_bf4030">額溫槍螢幕下方「Σ」恆亮表示已連結，請直接進行測量，以取得數值。</string>

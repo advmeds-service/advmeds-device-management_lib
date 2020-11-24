@@ -56,7 +56,7 @@
 
     <!--    血壓-->
     <string name="more_ble_txt_d40_and_td3261_pressure">1. เครื่องวัดความดันโลหิตให้แน่ใจว่ากำลังปิด \n2. กดปุ่มส่งสัญญาณความดันโลหิตแบบไร้สายในเครื่องด้านล่างขวาหน้าจอจะแสดง "PCL" \n3. กดด้านบนขวาของ "จับคู่"</string>
-    <string name="more_ble_txt_p30_and_td3129">1. เครื่องวัดความดันโลหิตให้แน่ใจว่ากำลังปิด \n2. กดปุ่มส่งสัญญาณความดันโลหิตแบบไร้สายในเครื่องด้านล่างขวาหน้าจอจะแสดง "PCL" \n3. กดด้านบนขวาของ "จับคู่"</string>
+    <string name="more_ble_txt_p30_and_td3129">1. แตะปุ่ม“ M” บนแผงควบคุมเป็นเวลา 5 วินาทีเพื่อดูแสงสีน้ำเงินกระพริบที่ด้านบนของหน้าจอเครื่องวัดความดันโลหิต ขณะนี้สามารถตรวจวัดได้ \n2. แตะ "เริ่มการจับคู่" ที่ด้านล่างของหน้านี้</string>
     <string name="more_ble_txt_p80_and_td3140">1. เครื่องวัดความดันโลหิตให้แน่ใจว่ากำลังปิด \n2. กดปุ่มด้านล่างเครื่องความดันโลหิตสีน้ำเงินหน้าจอจะแสดง "PCL" \n3. กดด้านบนขวาของ "จับคู่"</string>
     <string name="more_ble_txt_td3128">1. ตรวจสอบให้แน่ใจว่ากำลังปิดเครื่องความดันโลหิต \n2. กดและเครื่องวัดความดันโลหิตที่ด้านบนซ้ายของปุ่ม "M" จนกระทั่งหน้าจอแสดงผล "PCL" \n3. กดด้านบนขวาของ "การจับคู่"</string>
     <!--    體重-->
@@ -102,7 +102,7 @@
     <!--    讀卡機-->
     <string name="more_ble_txt_acr_3901u_s1_title">ACR3901U-S1 instructions:</string>
     <string name="more_ble_txt_acr_3901u_s1">1. ย้ายสวิตช์ไปที่สัญลักษณ์ Bluetooth แสงสีน้ำเงินกระพริบเมื่อเปิดใช้งาน\n2. แตะ "เริ่มการจับคู่อีกครั้ง" ที่ด้านล่างของหน้านี้</string>
-    //藍芽設備操作說明
+    //藍牙設備操作說明
     <string name="operation_info_taidoc_global">It\'s accessing to grabbing data of your results or you can type it in by yourself.</string>
 
     <string name="operation_info_bf4030">Showing “Σ” on the bottom of the screen of forehead thermometer means connected. Please operate directly to produce your records. </string>
