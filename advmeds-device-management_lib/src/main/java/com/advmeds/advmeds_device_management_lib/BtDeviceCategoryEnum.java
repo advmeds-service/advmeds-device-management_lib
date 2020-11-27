@@ -13,7 +13,7 @@ public enum BtDeviceCategoryEnum {
     TEMPERATURE(R.string.more_ble_connect_temperature, BF4030, IR40_TD1241, TD1261, TD1035, IR42_TD1242),
     TEMPERATURE2(R.string.device_temperature_second, BF4030, IR40_TD1241, TD1261, TD1035, IR42_TD1242),
     OXYGEN(R.string.more_ble_connect_blood_o2, O2_TD8255, TD8201),
-    GLUCOSE(R.string.more_ble_connect_blood_sugar, TD4257, GD40_TD4272, D40_TD3261_SUGAR, TD4216_SUGAR,
+    GLUCOSE(R.string.more_ble_connect_blood_sugar, TD4257, GD40_TD4272, D40_TD3261_SUGAR, TD4216_SUGAR,TD4206_SUGAR,
             DSP_COMBO),
     GRIP(R.string.device_grip),
     WAIST(R.string.device_waist),

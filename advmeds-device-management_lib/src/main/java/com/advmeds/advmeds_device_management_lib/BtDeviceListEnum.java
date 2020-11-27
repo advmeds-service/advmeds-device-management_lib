@@ -65,6 +65,9 @@ public enum BtDeviceListEnum {
             R.string.more_ble_txt_d40_and_td3261_sugar, R.string.operation_info_taidoc_global, R.drawable.img_d_40_b_td_3261_b),
     TD4216_SUGAR(BLE_TD4216, BLE_TD4216_SEARCH, BLE_TD4216_CONNECT, R.string.more_ble_txt_td4216_title,
             R.string.more_ble_txt_td4216_sugar, R.string.operation_info_taidoc_global, R.drawable.img_tai_doc_td_4216),
+    TD4206_SUGAR(BLE_TD4206, BLE_TD4206_SEARCH, BLE_TD4206_CONNECT, R.string.more_ble_txt_td4206_title,
+            R.string.more_ble_txt_td4206_sugar, R.string.operation_info_taidoc_meter, R.drawable.img_tai_doc_td_4206),
+
     DSP_COMBO(BLE_DSP_COMBO_SENSOR, BLE_DSP_COMBO_SENSOR_SEARCH, BLE_DSP_COMBO_SENSOR_CONNECT,
             R.string.more_ble_txt_dsp_combo_title,
             R.string.more_ble_txt_dsp_combo, R.string.operation_info_dspcombo, R.drawable.img_dsp_combo_sensor),
