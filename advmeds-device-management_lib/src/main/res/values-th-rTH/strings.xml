@@ -26,6 +26,7 @@
     <string name="more_ble_txt_td3128_title">คำแนะนำการจับคู่ TaiDoc TD-3128:</string>
     <!--    體重-->
     <string name="more_ble_txt_td2555_title">คำแนะนำการจับคู่ TaiDoc TD-2555:</string>
+    <string name="more_ble_txt_w600_and_td2560_title">คำแนะนำการจับคู่ FORA W600 / TaiDoc TD-2560:</string>
     <!--    額溫-->
     <string name="more_ble_txt_bf4030_title">คำแนะนำการจับคู่ BF4030:</string>
     <string name="more_ble_txt_ir40_and_td1241_title">คำแนะนำการจับคู่ FORA IR40 / TaiDoc TD-1241:</string>
@@ -61,6 +62,7 @@
     <string name="more_ble_txt_td3128">1. ตรวจสอบให้แน่ใจว่ากำลังปิดเครื่องความดันโลหิต \n2. กดและเครื่องวัดความดันโลหิตที่ด้านบนซ้ายของปุ่ม "M" จนกระทั่งหน้าจอแสดงผล "PCL" \n3. กดด้านบนขวาของ "การจับคู่"</string>
     <!--    體重-->
     <string name="more_ble_txt_td2555">1. ตรวจสอบให้แน่ใจว่ากำลังปิดเครื่องน้ำหนัก \n2. กดปุ่ม "SET" บนเครื่องชั่งน้ำหนักจนกระทั่งหน้าจอแสดงไอคอน Bluetooth \n3. กดด้านบนขวาของ "การจับคู่"</string>
+    <string name="more_ble_txt_w600_and_td2560">1. ตรวจสอบให้แน่ใจว่ากำลังปิดเครื่องน้ำหนัก \n2. กดปุ่ม "SET" บนเครื่องชั่งน้ำหนักจนกระทั่งหน้าจอแสดงไอคอน Bluetooth \n3. กดด้านบนขวาของ "การจับคู่"</string>
     <!--    額溫-->
     <string name="more_ble_txt_bf4030">1. เปิดเทอร์โมมิเตอร์วัดพลังงาน \n2. กดด้านบนขวาของ "การจับคู่"</string>
     <string name="more_ble_txt_ir40_and_td1241">1. เปิดการวัดพลังงานและเทอร์โมมิเตอร์ LED สีน้ำเงินด้านบนซ้ายจะเริ่มกะพริบ \n2. กดด้านบนขวาของ "การจับคู่"</string>
@@ -83,6 +85,7 @@
     <string name="more_ble_txt_td4216_uric_acid">Press the bottom right button of uric acid meter, and its screen will appear "BLE". The blue LED light at the upper corner will start twinkling,then please tap on the "Pair" button at upper right corner of this page.</string>
     <!--    血酮-->
     <string name="more_ble_txt_td4206_ketone">Put blue tooth dongle into the ketone meter, the blue LED of the dongle will start twinkling and the screen will appear "PC". Then please tap on the "Pair" button at upper right corner of this page.</string>
+    <string name="more_ble_txt_td4216_ketone">Put blue tooth dongle into the ketone meter, the blue LED of the dongle will start twinkling and the screen will appear "PC". Then please tap on the "Pair" button at upper right corner of this page.</string>
     <!--    膽固醇-->
     <!--    目前暫無設備-->
     <string name="now_pair_device">อุปกรณ์ปัจจุบัน %s</string>

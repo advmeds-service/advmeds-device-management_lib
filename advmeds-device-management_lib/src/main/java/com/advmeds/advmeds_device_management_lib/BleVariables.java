@@ -42,6 +42,12 @@ class BleVariables {
 
     static final String BLE_TD2555_CONNECT = "TAIDOC TD2555";
 
+    public static final String BLE_W600_TD2560 = "FORA W600 / TD-2560";
+
+    public static final String[] BLE_W600_TD2560_SEARCH = {"FORA W600","TAIDOC TD2560"};
+
+    public static final String BLE_W600_TD2560_CONNECT = "FORA W600";
+
     static final String BLE_BF4030 = "BF4030";
 
     static final String[] BLE_BF4030_SEARCH = {"BF4030"};

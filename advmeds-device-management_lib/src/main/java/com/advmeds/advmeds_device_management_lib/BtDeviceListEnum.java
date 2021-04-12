@@ -27,7 +27,9 @@ public enum BtDeviceListEnum {
     TD2555(BLE_TD2555, BLE_TD2555_SEARCH, BLE_TD2555_CONNECT, R.string.more_ble_txt_td2555_title,
             R.string.more_ble_txt_td2555, R.string.operation_info_taidoc_global,
             R.drawable.img_tai_doc_td_2555),
-
+    W600_TD2560(BLE_W600_TD2560, BLE_W600_TD2560_SEARCH, BLE_W600_TD2560_CONNECT, R.string.more_ble_txt_w600_and_td2560_title,
+            R.string.more_ble_txt_w600_and_td2560, R.string.operation_info_taidoc_global,
+            R.drawable.img_tai_doc_td_2560),
     BF4030(BLE_BF4030, BLE_BF4030_SEARCH, BLE_BF4030_CONNECT, R.string.more_ble_txt_bf4030_title,
             R.string.more_ble_txt_bf4030, R.string.operation_info_bf4030,
             R.drawable.img_bf_4030),
@@ -81,6 +83,8 @@ public enum BtDeviceListEnum {
 
     TD4206_KETONE(BLE_TD4206, BLE_TD4206_SEARCH, BLE_TD4206_CONNECT, R.string.more_ble_txt_td4206_title,
             R.string.more_ble_txt_td4206_ketone, R.string.operation_info_taidoc_global, R.drawable.img_tai_doc_td_4206),
+    TD4216_KETONE(BLE_TD4216, BLE_TD4216_SEARCH, BLE_TD4216_CONNECT, R.string.more_ble_txt_td4216_title,
+            R.string.more_ble_txt_td4216_ketone, R.string.operation_info_taidoc_global, R.drawable.img_tai_doc_td_4216),
     Imedi_Plus_DS101(BLE_IMEDI_PLUS_DS101, BLE_IMEDI_PLUS_DS101_SEARCH, BLE_IMEDI_PLUS_DS101_CONNECT,
             R.string.more_ble_txt_imedi_plus_ds_101_title,
             R.string.more_ble_txt_imedi_plus_ds_101, R.string.operation_info_ds_101, R.drawable.img_imedi_ds_101),

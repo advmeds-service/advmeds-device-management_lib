@@ -26,6 +26,7 @@
     <string name="more_ble_txt_td3128_title">TaiDoc TD-3128 pairing instructions:</string>
     <!--    體重-->
     <string name="more_ble_txt_td2555_title">TaiDoc TD-2555 pairing instructions:</string>
+    <string name="more_ble_txt_w600_and_td2560_title">FORA W600 / TaiDoc TD-2560 pairing instructions:</string>
     <!--    額溫-->
     <string name="more_ble_txt_bf4030_title">BF4030 pairing instructions:</string>
     <string name="more_ble_txt_ir40_and_td1241_title">FORA IR40 / TaiDoc TD-1241 pairing instructions:</string>
@@ -60,6 +61,7 @@
     <string name="more_ble_txt_td3128">1. make sure the power is off blood pressure machine\n2. Press and blood pressure machine at the top left of the "M" button until the screen display "PCL"\n3. Press the top right of the "pairing"</string>
     <!--    體重-->
     <string name="more_ble_txt_td2555">1. make sure the power is off weight machine\n2. Press the "SET" button on weight machines, until the screen displays the Bluetooth icon\n3. Press the top right of the "pairing"</string>
+    <string name="more_ble_txt_w600_and_td2560">1. make sure the power is off weight machine\n2. Press the "SET" button on weight machines, until the screen displays the Bluetooth icon\n3. Press the top right of the "pairing"</string>
     <!--    額溫-->
     <string name="more_ble_txt_bf4030">1. Turn on the power thermometer\n2. Press the top right of the "pairing"</string>
     <string name="more_ble_txt_ir40_and_td1241">1. Turn on the power and thermometer measurements, the upper left blue LED will start flashing\n2. Press the top right of the "pairing"</string>
@@ -82,6 +84,7 @@
     <string name="more_ble_txt_td4216_uric_acid">Press the bottom right button of uric acid meter, and its screen will appear "BLE". The blue LED light at the upper corner will start twinkling,then please tap on the "Pair" button at upper right corner of this page.</string>
     <!--    血酮-->
     <string name="more_ble_txt_td4206_ketone">Put blue tooth dongle into the ketone meter, the blue LED of the dongle will start twinkling and the screen will appear "PC". Then please tap on the "Pair" button at upper right corner of this page.</string>
+    <string name="more_ble_txt_td4216_ketone">Put blue tooth dongle into the ketone meter, the blue LED of the dongle will start twinkling and the screen will appear "PC". Then please tap on the "Pair" button at upper right corner of this page.</string>
     <!--    膽固醇-->
     <!--    目前暫無設備-->
     <string name="now_pair_device">Current device %s</string>
