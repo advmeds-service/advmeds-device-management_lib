@@ -8,6 +8,9 @@
     <string name="more_ble_connect_temperature">體溫計</string>
     <string name="more_ble_connect_blood_o2">血氧機</string>
     <string name="more_ble_connect_blood_sugar">血糖機</string>
+    <string name="more_ble_connect_uric_acid">尿酸計</string>
+    <string name="more_ble_connect_ketone">血酮機</string>
+    <string name="more_ble_connect_cholesterol">膽固醇測試機</string>
     <string name="text_ketone">血酮</string>
     <string name="text_cholesterol">膽固醇</string>
     <string name="text_uric_acid">尿酸</string>
@@ -89,6 +92,7 @@
     <string name="more_ble_txt_td4206_ketone">1. 將藍牙接收器插入血酮機，接收器上方藍色LED燈會開始閃爍，且螢幕出現”PC”\n2. 按頁面下方的「開始配對」</string>
     <string name="more_ble_txt_td4216_ketone">1. 將藍牙接收器插入血酮機，接收器上方藍色LED燈會開始閃爍，且螢幕出現”PC”\n2. 按頁面下方的「開始配對」</string>
     <!--    膽固醇-->
+    <string name="more_ble_txt_td4216_cholesterol">1. 將藍牙接收器插入膽固醇測試機，接收器上方藍色LED燈會開始閃爍，且螢幕出現”PC”\n2. 按頁面下方的「開始配對」</string>
     <!--    目前暫無設備-->
 
 

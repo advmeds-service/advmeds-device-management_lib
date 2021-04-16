@@ -7,6 +7,9 @@
     <string name="more_ble_connect_temperature">เครื่องวัดอุณหภูมิ</string>
     <string name="more_ble_connect_blood_o2">เครื่องผลิตออกซิเจน</string>
     <string name="more_ble_connect_blood_sugar">เครื่องวัดระดับน้ำตาลในเลือด</string>
+    <string name="more_ble_connect_uric_acid">Uric Acid meter</string>
+    <string name="more_ble_connect_ketone">Ketone meter</string>
+    <string name="more_ble_connect_cholesterol">Cholesterol meter</string>
     <string name="text_ketone">Ketone</string>
     <string name="text_cholesterol">Cholesterol</string>
     <string name="text_grip_str">Grip strength</string>
@@ -87,6 +90,7 @@
     <string name="more_ble_txt_td4206_ketone">Put blue tooth dongle into the ketone meter, the blue LED of the dongle will start twinkling and the screen will appear "PC". Then please tap on the "Pair" button at upper right corner of this page.</string>
     <string name="more_ble_txt_td4216_ketone">Put blue tooth dongle into the ketone meter, the blue LED of the dongle will start twinkling and the screen will appear "PC". Then please tap on the "Pair" button at upper right corner of this page.</string>
     <!--    膽固醇-->
+    <string name="more_ble_txt_td4216_cholesterol">Put blue tooth dongle into the cholesterol meter, the blue LED of the dongle will start twinkling and the screen will appear "PC". Then please tap on the "Pair" button at upper right corner of this page.</string>
     <!--    目前暫無設備-->
     <string name="now_pair_device">อุปกรณ์ปัจจุบัน %s</string>
     <string name="txt_pair_start">Start pairing</string>

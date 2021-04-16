@@ -91,6 +91,9 @@ public enum BtDeviceListEnum {
     ACR3901U_S1(BLE_ACR3901U_S1, BLE_ACR3901U_S1_SEARCH, BLE_ACR3901U_S1_CONNECT,
             R.string.more_ble_txt_acr_3901u_s1_title, R.string.operation_card_reader_info,
             R.string.more_ble_txt_acr_3901u_s1, R.drawable.img_acr_3901_u_s_1),
+
+    TD4216_CHOLESTEROL(BLE_TD4216, BLE_TD4216_SEARCH, BLE_TD4216_CONNECT, R.string.more_ble_txt_td4216_title,
+            R.string.more_ble_txt_td4216_cholesterol, R.string.operation_info_taidoc_global,R.drawable.img_tai_doc_td_4216),
     ;
 
 

@@ -104,7 +104,7 @@ class BleVariables {
 
     static final String BLE_TD4216 = "TaiDoc TD-4216";
 
-    static final String[] BLE_TD4216_SEARCH = {"TAIDOC TD4216"};
+    static final String[] BLE_TD4216_SEARCH = {"TAIDOC TD4216","TAIDOC TD4216 A7B8"};
 
     static final String BLE_TD4216_CONNECT = "TAIDOC TD4216";
 
