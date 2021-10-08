@@ -126,6 +126,12 @@ class BleVariables {
 
     static final String BLE_TD4206_CONNECT = "TAIDOC TD4206";
 
+    static final String BLE_FORA_MD6 = "FORA MD6 / TD-4172";
+
+    static final String[] BLE_FORA_MD6_SEARCH = {"FORA MD6","TAIDOC TD4172"};
+
+    static final String BLE_FORA_MD6_CONNECT = "FORA MD6";
+
 
     static final String BLE_IMEDI_PLUS_DS101 = "Imedi Plus DS101";
 

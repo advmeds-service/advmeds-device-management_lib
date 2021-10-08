@@ -45,16 +45,21 @@
     <!--        同血壓設備 FORA D40B / TaiDoc TD-3261B-->
     <string name="more_ble_txt_td4216_title">TaiDoc TD-4216 pairing instructions:</string>
     <string name="more_ble_txt_dsp_combo_title">DSP Combo Sensor pairing instructions:</string>
+    <string name="more_ble_txt_md6_and_td4172_title">FORA MD6 / TaiDoc TD-4172 pairing instructions:</string>
 
     <!--    尿酸-->
     <string name="more_ble_txt_td4141_title">TaiDoc TD-4141 pairing instructions:</string>
     <string name="more_ble_txt_td4206_title">TaiDoc TD-4206 pairing instructions:</string>
     <!--        同血糖設備 TaiDoc TD-4216-->
+    <!--        同血糖設備 FORA MD6 / TaiDoc TD-4172-->
+
     <!--    血酮-->
     <!--        同尿酸設備 TaiDoc TD-4206-->
+    <!--        同血糖設備 TaiDoc TD-4216-->
+    <!--        同血糖設備 FORA MD6 / TaiDoc TD-4172-->
+
     <!--    膽固醇-->
     <!--        目前暫無設備-->
-
 
     <!--更多 同步設備 設備說明-->
     <!--    血壓-->
@@ -81,15 +86,20 @@
     <string name="more_ble_txt_td4216_sugar">Press the bottom right button of blood glucose measurement, and its screen will appear "BLE". The blue LED light at the upper corner will start twinkling,then please tap on the "Pair" button at upper right corner of this page.</string>
     <string name="more_ble_txt_td4206_sugar">Put blue tooth dongle into the glucose meter, the blue LED of the dongle will start twinkling and the screen will appear "PC". Then please tap on the "Pair" button at upper right corner of this page.</string>
     <string name="more_ble_txt_dsp_combo">1. Turn on the power machine and the blood glucose measurement, the left of the blue LED light will start flashing; glucose machine or press the center button OFF until all logged calls occur, blood glucose meters will start flashing in the upper left of the blue LED\n2. press the upper right page. party "pairing"</string>
+    <string name="more_ble_txt_md6_and_td4172_sugar">1. Please make sure the power of the blood glucose measurement is off\n2. Pull down the switch on the left side of the blood glucose measurement, the blue LED on the top left of the screen will start to flash\n3. Click "Pair" at the bottom of the page</string>
+
     <!--    尿酸-->
     <string name="more_ble_txt_td4141">Put blue tooth dongle into the uric acid meter, the blue LED of the dongle will start twinkling and the screen will appear "PC". Then please tap on the "Pair" button at upper right corner of this page.</string>
     <string name="more_ble_txt_td4206_uric_acid">Put blue tooth dongle into the uric acid meter, the blue LED of the dongle will start twinkling and the screen will appear "PC". Then please tap on the "Pair" button at upper right corner of this page.</string>
     <string name="more_ble_txt_td4216_uric_acid">Press the bottom right button of uric acid meter, and its screen will appear "BLE". The blue LED light at the upper corner will start twinkling,then please tap on the "Pair" button at upper right corner of this page.</string>
+    <string name="more_ble_txt_md6_and_td4172_uric_acid">1. Please make sure the power of the uric acid meter is off\n2. Pull down the switch on the left side of the uric acid meter, the blue LED on the top left of the screen will start to flash\n3. Click "Pair" at the bottom of the page</string>
     <!--    血酮-->
     <string name="more_ble_txt_td4206_ketone">Put blue tooth dongle into the ketone meter, the blue LED of the dongle will start twinkling and the screen will appear "PC". Then please tap on the "Pair" button at upper right corner of this page.</string>
-    <string name="more_ble_txt_td4216_ketone">Put blue tooth dongle into the ketone meter, the blue LED of the dongle will start twinkling and the screen will appear "PC". Then please tap on the "Pair" button at upper right corner of this page.</string>
+    <string name="more_ble_txt_td4216_ketone">Press the bottom right button of ketone measurement, the blue LED of the dongle will start twinkling and the screen will appear "PC". Then please tap on the "Pair" button at upper right corner of this page.</string>
+    <string name="more_ble_txt_md6_and_td4172_ketone">1. Please make sure the power of the ketone measurement is off\n2. Pull down the switch on the left side of the ketone measurement, the blue LED on the top left of the screen will start to flash\n3. Click "Pair" at the bottom of the page</string>
     <!--    膽固醇-->
-    <string name="more_ble_txt_td4216_cholesterol">Put blue tooth dongle into the cholesterol meter, the blue LED of the dongle will start twinkling and the screen will appear "PC". Then please tap on the "Pair" button at upper right corner of this page.</string>
+    <string name="more_ble_txt_td4216_cholesterol">Press the bottom right button of cholesterol measurement, the blue LED of the dongle will start twinkling and the screen will appear "PC". Then please tap on the "Pair" button at upper right corner of this page.</string>
+    <string name="more_ble_txt_md6_and_td4172_cholesterol">1. Please make sure the power of the cholesterol measurement is off\n2. Pull down the switch on the left side of the cholesterol measurement, the blue LED on the top left of the screen will start to flash\n3. Click "Pair" at the bottom of the page</string>
     <!--    目前暫無設備-->
     <string name="now_pair_device">Current device %s</string>
     <string name="txt_pair_start">Start pairing</string>

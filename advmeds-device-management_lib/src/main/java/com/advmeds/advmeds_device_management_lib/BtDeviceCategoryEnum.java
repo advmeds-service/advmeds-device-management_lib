@@ -14,12 +14,12 @@ public enum BtDeviceCategoryEnum {
     TEMPERATURE2(R.string.device_temperature_second, BF4030, IR40_TD1241, TD1261, TD1035, IR42_TD1242),
     OXYGEN(R.string.more_ble_connect_blood_o2, O2_TD8255, TD8201),
     GLUCOSE(R.string.more_ble_connect_blood_sugar, TD4257, GD40_TD4272, D40_TD3261_SUGAR,TD4206_SUGAR, TD4216_SUGAR,
-            DSP_COMBO),
+            DSP_COMBO,MD6_TD4172_SUGAR),
     GRIP(R.string.device_grip),
     WAIST(R.string.device_waist),
-    URIC_ACID(R.string.more_ble_connect_uric_acid, TD4141, TD4206_URIC_ACID, TD4216_URIC_ACID),
-    KETONE(R.string.more_ble_connect_ketone, TD4206_KETONE,TD4216_KETONE),
-    CHOLESTEROL(R.string.more_ble_connect_cholesterol,TD4216_CHOLESTEROL),
+    URIC_ACID(R.string.more_ble_connect_uric_acid, TD4141, TD4206_URIC_ACID, TD4216_URIC_ACID,MD6_TD4172_URIC_ACID),
+    KETONE(R.string.more_ble_connect_ketone, TD4206_KETONE,TD4216_KETONE,MD6_TD4172_KETONE),
+    CHOLESTEROL(R.string.more_ble_connect_cholesterol,TD4216_CHOLESTEROL,MD6_TD4172_CHOLESTEROL),
     STETHOSCOPE(R.string.device_stethoscope, Imedi_Plus_DS101),
     CARD_REDAR(R.string.device_card_reader, ACR3901U_S1);
 

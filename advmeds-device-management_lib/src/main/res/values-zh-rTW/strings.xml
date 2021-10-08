@@ -47,13 +47,19 @@
     <!--        同血壓設備 FORA D40B / TaiDoc TD-3261B-->
     <string name="more_ble_txt_td4216_title">TaiDoc TD-4216配對說明：</string>
     <string name="more_ble_txt_dsp_combo_title">DSP Combo Sensor配對說明：</string>
+    <string name="more_ble_txt_md6_and_td4172_title">FORA MD6 / TaiDoc TD-4172配對說明：</string>
 
     <!--    尿酸-->
     <string name="more_ble_txt_td4141_title">TaiDoc TD-4141配對說明：</string>
     <string name="more_ble_txt_td4206_title">TaiDoc TD-4206配對說明：</string>
     <!--        同血糖設備 TaiDoc TD-4216-->
+    <!--        同血糖設備 FORA MD6 / TaiDoc TD-4172-->
+
     <!--    血酮-->
     <!--        同尿酸設備 TaiDoc TD-4206-->
+    <!--        同血糖設備 TaiDoc TD-4216-->
+    <!--        同血糖設備 FORA MD6 / TaiDoc TD-4172-->
+
     <!--    膽固醇-->
     <!--        目前暫無設備-->
 
@@ -80,19 +86,24 @@
     <string name="more_ble_txt_td4257">1. 請開啟血糖機電源並量測後，左上方藍色LED燈會開始閃爍 ; 或按血糖機中間按鈕呼叫所有記錄直到出現OFF，血糖機左上方藍色LED燈會開始閃爍\n2. 按頁面下方的「開始配對」</string>
     <string name="more_ble_txt_gd40_and_td4272">1. 請先確認血糖機的電源是關的\n2. 將血糖機左側的開關往下拉一下，螢幕左上方的藍色LED燈會開始閃爍\n3. 按頁面下方的「開始配對」</string>
     <string name="more_ble_txt_d40_and_td3261_sugar">1. 請先確認血糖機的電源是關的\n2. 按血糖機螢幕右下方的無線傳輸按鈕，螢幕即會顯示”PCL”\n3. 按下頁面下方的「開始配對」</string>
-    <string name="more_ble_txt_td4216_sugar">1. 輕按尿酸計右下方按鈕，螢幕即會顯示”BLE”，上方藍色LED燈會開始閃爍\n2. 按頁面下方的「開始配對」</string>
+    <string name="more_ble_txt_td4216_sugar">1. 輕按血糖機右下方按鈕，螢幕即會顯示”BLE”，上方藍色LED燈會開始閃爍\n2. 按頁面下方的「開始配對」</string>
     <string name="more_ble_txt_td4206_sugar">1. 將藍牙接收器插入血糖機，接收器上方藍色LED燈會開始閃爍，且螢幕出現”PC”\n2. 按頁面右上方的”配對”</string>
     <string name="more_ble_txt_dsp_combo">1. 請開啟血糖機電源， 右側藍色LED燈亮起\n2. 按頁面下方的「開始配對」</string>
+    <string name="more_ble_txt_md6_and_td4172_sugar">1. 請先確認血糖機的電源是關的\n2. 將血糖機左側的開關往下拉一下，螢幕左上方的藍色LED燈會開始閃爍\n3. 按頁面下方的「配對」</string>
 
     <!--    尿酸-->
     <string name="more_ble_txt_td4141">1. 將藍牙接收器插入尿酸計，接收器上方藍色LED燈會開始閃爍，且螢幕出現”PC”\n2. 按頁面下方的「開始配對」</string>
     <string name="more_ble_txt_td4206_uric_acid">1. 將藍牙接收器插入尿酸計，接收器上方藍色LED燈會開始閃爍，且螢幕出現”PC”\n2. 按頁面下方的「開始配對」</string>
-    <string name="more_ble_txt_td4216_uric_acid">1. 輕按尿酸計右下方按鈕，螢幕即會顯示”BLE”，上方藍色LED燈會開始閃爍\n2. 按頁面下方的「開始配對」</string>
+    <string name="more_ble_txt_td4216_uric_acid">1. 輕按尿酸計右下方按鈕，螢幕即會顯示”BLE”\n2. 按頁面下方的「開始配對」</string>
+    <string name="more_ble_txt_md6_and_td4172_uric_acid">1. 請先確認尿酸計的電源是關的\n2. 將尿酸計左側的開關往下拉一下，螢幕左上方的藍色LED燈會開始閃爍\n3. 按頁面下方的「配對」</string>
+
     <!--    血酮-->
     <string name="more_ble_txt_td4206_ketone">1. 將藍牙接收器插入血酮機，接收器上方藍色LED燈會開始閃爍，且螢幕出現”PC”\n2. 按頁面下方的「開始配對」</string>
-    <string name="more_ble_txt_td4216_ketone">1. 將藍牙接收器插入血酮機，接收器上方藍色LED燈會開始閃爍，且螢幕出現”PC”\n2. 按頁面下方的「開始配對」</string>
+    <string name="more_ble_txt_td4216_ketone">1. 輕按血酮機右下方按鈕，螢幕即會顯示”BLE”\n2. 按頁面下方的「開始配對」</string>
+    <string name="more_ble_txt_md6_and_td4172_ketone">1. 請先確認血酮機的電源是關的\n2. 將血酮機左側的開關往下拉一下，螢幕左上方的藍色LED燈會開始閃爍\n3. 按頁面下方的「配對」</string>
     <!--    膽固醇-->
-    <string name="more_ble_txt_td4216_cholesterol">1. 將藍牙接收器插入膽固醇測試機，接收器上方藍色LED燈會開始閃爍，且螢幕出現”PC”\n2. 按頁面下方的「開始配對」</string>
+    <string name="more_ble_txt_td4216_cholesterol">1. 輕按膽固醇機右下方按鈕，螢幕即會顯示”BLE”，上方藍色LED燈會開始閃爍\n2. 按頁面下方的「開始配對」</string>
+    <string name="more_ble_txt_md6_and_td4172_cholesterol">1. 請先確認膽固醇機的電源是關的\n2. 將膽固醇機左側的開關往下拉一下，螢幕左上方的藍色LED燈會開始閃爍\n3. 按頁面下方的「配對」</string>
     <!--    目前暫無設備-->
 
 

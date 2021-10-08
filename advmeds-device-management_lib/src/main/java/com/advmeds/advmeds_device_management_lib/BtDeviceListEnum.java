@@ -73,6 +73,8 @@ public enum BtDeviceListEnum {
     DSP_COMBO(BLE_DSP_COMBO_SENSOR, BLE_DSP_COMBO_SENSOR_SEARCH, BLE_DSP_COMBO_SENSOR_CONNECT,
             R.string.more_ble_txt_dsp_combo_title,
             R.string.more_ble_txt_dsp_combo, R.string.operation_info_dspcombo, R.drawable.img_dsp_combo_sensor),
+    MD6_TD4172_SUGAR(BLE_FORA_MD6, BLE_FORA_MD6_SEARCH, BLE_FORA_MD6_CONNECT, R.string.more_ble_txt_md6_and_td4172_title,
+            R.string.more_ble_txt_md6_and_td4172_sugar, R.string.operation_info_taidoc_global, R.drawable.img_fora_md6),
 
     TD4141(BLE_TD4141, BLE_TD4141_SEARCH, BLE_TD4141_CONNECT, R.string.more_ble_txt_td4141_title,
             R.string.more_ble_txt_td4141, R.string.operation_info_taidoc_meter, R.drawable.img_tai_doc_td_4141),
@@ -80,11 +82,16 @@ public enum BtDeviceListEnum {
             R.string.more_ble_txt_td4206_uric_acid, R.string.operation_info_taidoc_meter, R.drawable.img_tai_doc_td_4206),
     TD4216_URIC_ACID(BLE_TD4216, BLE_TD4216_SEARCH, BLE_TD4216_CONNECT, R.string.more_ble_txt_td4216_title,
             R.string.more_ble_txt_td4216_uric_acid, R.string.operation_info_taidoc_meter, R.drawable.img_tai_doc_td_4216),
+    MD6_TD4172_URIC_ACID(BLE_FORA_MD6, BLE_FORA_MD6_SEARCH, BLE_FORA_MD6_CONNECT, R.string.more_ble_txt_md6_and_td4172_title,
+            R.string.more_ble_txt_md6_and_td4172_uric_acid, R.string.operation_info_taidoc_global, R.drawable.img_fora_md6),
 
     TD4206_KETONE(BLE_TD4206, BLE_TD4206_SEARCH, BLE_TD4206_CONNECT, R.string.more_ble_txt_td4206_title,
             R.string.more_ble_txt_td4206_ketone, R.string.operation_info_taidoc_global, R.drawable.img_tai_doc_td_4206),
     TD4216_KETONE(BLE_TD4216, BLE_TD4216_SEARCH, BLE_TD4216_CONNECT, R.string.more_ble_txt_td4216_title,
             R.string.more_ble_txt_td4216_ketone, R.string.operation_info_taidoc_global, R.drawable.img_tai_doc_td_4216),
+    MD6_TD4172_KETONE(BLE_FORA_MD6, BLE_FORA_MD6_SEARCH, BLE_FORA_MD6_CONNECT, R.string.more_ble_txt_md6_and_td4172_title,
+            R.string.more_ble_txt_md6_and_td4172_ketone, R.string.operation_info_taidoc_global, R.drawable.img_fora_md6),
+
     Imedi_Plus_DS101(BLE_IMEDI_PLUS_DS101, BLE_IMEDI_PLUS_DS101_SEARCH, BLE_IMEDI_PLUS_DS101_CONNECT,
             R.string.more_ble_txt_imedi_plus_ds_101_title,
             R.string.more_ble_txt_imedi_plus_ds_101, R.string.operation_info_ds_101, R.drawable.img_imedi_ds_101),
@@ -94,6 +101,9 @@ public enum BtDeviceListEnum {
 
     TD4216_CHOLESTEROL(BLE_TD4216, BLE_TD4216_SEARCH, BLE_TD4216_CONNECT, R.string.more_ble_txt_td4216_title,
             R.string.more_ble_txt_td4216_cholesterol, R.string.operation_info_taidoc_global,R.drawable.img_tai_doc_td_4216),
+    MD6_TD4172_CHOLESTEROL(BLE_FORA_MD6, BLE_FORA_MD6_SEARCH, BLE_FORA_MD6_CONNECT, R.string.more_ble_txt_md6_and_td4172_title,
+            R.string.more_ble_txt_md6_and_td4172_cholesterol, R.string.operation_info_taidoc_global, R.drawable.img_fora_md6),
+
     ;
 
 
