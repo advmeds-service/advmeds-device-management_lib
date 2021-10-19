@@ -138,4 +138,11 @@
     <string name="operation_card_reader_info">正在自動連結讀卡機，您也可以暫時先略過。</string>
 
     <string name="operation_info_ds_101">正在自動獲取量測數值。</string>
+
+    <string name="txt_note_md6_step1">請將試片插入。</string>
+    <string name="txt_note_md6_step2">試片完全插入後，機器將自動啟動並顯示血滴符號。</string>
+    <string name="txt_note_md6_step3">將試片吸入口以 45 度靠近手指上的血液，血液會被自動吸入，待吸滿血液後再移開。</string>
+    <string name="txt_note_md6_step4">待機器倒數至 0 後，測量結果會出現於螢幕上。將試片自機器中退出。</string>
+    <string name="txt_note_md6_step5">量測完成後請將試片移除，以取得量測數值。</string>
+
 </resources>

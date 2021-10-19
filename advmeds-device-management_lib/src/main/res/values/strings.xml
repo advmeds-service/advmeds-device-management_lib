@@ -132,4 +132,10 @@
 
     <string name="operation_card_reader_info">It’s connecting to a card reader. Or you can skip it for the time being. </string>
 
+    <string name="txt_note_md6_step1">Please insert the test piece.</string>
+    <string name="txt_note_md6_step2">After the test piece is fully inserted, the machine will automatically start and display the blood drop symbol.</string>
+    <string name="txt_note_md6_step3">Place the test piece suction port close to the blood on the finger at 45 degrees, the blood will be automatically sucked in, and then remove it after the blood is full.</string>
+    <string name="txt_note_md6_step4">After the standby device counts down to 0, the measurement result will appear on the screen. Withdraw the test piece from the machine.</string>
+    <string name="txt_note_md6_step5">After the measurement is completed, please remove the test piece to obtain the measurement value.</string>
+
 </resources>

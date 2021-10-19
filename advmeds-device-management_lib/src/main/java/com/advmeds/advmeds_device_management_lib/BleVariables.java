@@ -1,5 +1,8 @@
 package com.advmeds.advmeds_device_management_lib;
 
+import androidx.annotation.Keep;
+
+@Keep
 class BleVariables {
     //BLE 狀態
     static final int BLE_DEVICE_CHOSEN = 43060;

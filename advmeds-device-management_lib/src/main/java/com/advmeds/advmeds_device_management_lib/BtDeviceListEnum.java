@@ -5,7 +5,10 @@ import android.graphics.drawable.Drawable;
 
 import static com.advmeds.advmeds_device_management_lib.BleVariables.*;
 
+import androidx.annotation.Keep;
 
+
+@Keep
 public enum BtDeviceListEnum {
     // Search Name，連接方式-標題，連接方式-說明，圖片
     D40_TD3261(BLE_D40B_TD3261B, BLE_D40B_TD3261B_SEARCH, BLE_D40B_TD3261B_CONNECT,

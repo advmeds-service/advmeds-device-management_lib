@@ -7,6 +7,9 @@ import java.util.Collections;
 
 import static com.advmeds.advmeds_device_management_lib.BtDeviceListEnum.*;
 
+import androidx.annotation.Keep;
+
+@Keep
 public enum BtDeviceCategoryEnum {
     PRESSURE(R.string.more_ble_connect_pressure, D40_TD3261, P30_TD3129, P80_TD3140, TD3128),
     WEIGHT(R.string.more_ble_connect_weight, TD2555,W600_TD2560),
