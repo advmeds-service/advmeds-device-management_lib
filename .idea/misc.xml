@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android/Library/advmeds-device-management_lib/advmeds-device-management_lib/src/main/res/drawable/ic_img_md6_step1.xml" value="0.33697916666666666" />
+        <entry key="..\:/Android/Library/advmeds-device-management_lib/advmeds-device-management_lib/src/main/res/drawable/ic_img_md6_step2.xml" value="0.33697916666666666" />
+        <entry key="..\:/Android/Library/advmeds-device-management_lib/advmeds-device-management_lib/src/main/res/drawable/ic_img_md6_step3.xml" value="0.33697916666666666" />
+        <entry key="..\:/Android/Library/advmeds-device-management_lib/advmeds-device-management_lib/src/main/res/drawable/ic_img_md6_step4.xml" value="0.33697916666666666" />
+        <entry key="..\:/Android/Library/advmeds-device-management_lib/advmeds-device-management_lib/src/main/res/drawable/ic_img_md6_step5.xml" value="0.33697916666666666" />
+      </map>
+    </option>
+  </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>

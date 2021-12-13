@@ -1,15 +1,14 @@
 apply plugin: 'com.android.library'
 apply plugin: 'maven-publish'
 
-
 android {
-    compileSdkVersion 31
-    buildToolsVersion "30.0.3"
+    compileSdkVersion 30
+    buildToolsVersion "29.0.3"
 
 
     defaultConfig {
         minSdkVersion 22
-        targetSdkVersion 31
+        targetSdkVersion 30
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
         consumerProguardFiles 'consumer-rules.pro'
@@ -21,7 +20,21 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
         }
     }
+    task androidSourcesJar(type: Jar) {
+        classifier 'sources'
+        from android.sourceSets.main.java.srcDirs
+    }
 
+    project.afterEvaluate {
+        publishing {
+            publications {
+                release(MavenPublication) {
+                    from components.release
+                    artifact androidSourcesJar // optional sources
+                }
+            }
+        }
+    }
 }
 
 dependencies {
@@ -30,15 +43,5 @@ dependencies {
     implementation 'androidx.appcompat:appcompat:1.3.1'
     testImplementation 'junit:junit:4.12'
     androidTestImplementation 'androidx.test.ext:junit:1.1.3'
-    androidTestImplementation 'androidx.test.espresso:espresso-core:3.4.0'}
-
-publishing {
-    publications {
-        mavenJava(MavenPublication) {
-            groupId = 'org.gradle.sample'
-            artifactId = 'library'
-            version = '1.1'
-
-        }
-    }
+    androidTestImplementation 'androidx.test.espresso:espresso-core:3.4.0'
 }

@@ -10,6 +10,7 @@
     <string name="more_ble_connect_uric_acid">Uric Acid meter</string>
     <string name="more_ble_connect_ketone">Ketone meter</string>
     <string name="more_ble_connect_cholesterol">Cholesterol meter</string>
+    <string name="more_ble_connect_body_composition_meter">Body composition meter</string>
     <string name="text_ketone">Ketone</string>
     <string name="text_cholesterol">Cholesterol</string>
     <string name="text_grip_str">Grip strength</string>
