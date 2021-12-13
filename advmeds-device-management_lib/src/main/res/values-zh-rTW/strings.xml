@@ -11,6 +11,7 @@
     <string name="more_ble_connect_uric_acid">尿酸計</string>
     <string name="more_ble_connect_ketone">血酮機</string>
     <string name="more_ble_connect_cholesterol">膽固醇測試機</string>
+    <string name="more_ble_connect_body_composition_meter">體組成計</string>
     <string name="text_ketone">血酮</string>
     <string name="text_cholesterol">膽固醇</string>
     <string name="text_uric_acid">尿酸</string>
