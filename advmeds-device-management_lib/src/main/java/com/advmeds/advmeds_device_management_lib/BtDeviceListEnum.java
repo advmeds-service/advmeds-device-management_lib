@@ -107,6 +107,9 @@ public enum BtDeviceListEnum {
     MD6_TD4172_CHOLESTEROL(BLE_FORA_MD6, BLE_FORA_MD6_SEARCH, BLE_FORA_MD6_CONNECT,BLE_FORA_MD6_UPLOAD, R.string.more_ble_txt_md6_and_td4172_title,
             R.string.more_ble_txt_md6_and_td4172_cholesterol, R.string.operation_info_taidoc_global, R.drawable.img_fora_md6),
 
+    W600_TD2560_FAT(BLE_W600_TD2560, BLE_W600_TD2560_SEARCH, BLE_W600_TD2560_CONNECT,BLE_W600_TD2560_UPLOAD, R.string.more_ble_txt_w600_and_td2560_title,
+            R.string.more_ble_txt_w600_and_td2560_fat, R.string.operation_info_taidoc_global,
+            R.drawable.img_tai_doc_td_2560),
     ;
 
 

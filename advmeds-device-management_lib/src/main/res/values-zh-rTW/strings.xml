@@ -11,7 +11,7 @@
     <string name="more_ble_connect_uric_acid">尿酸計</string>
     <string name="more_ble_connect_ketone">血酮機</string>
     <string name="more_ble_connect_cholesterol">膽固醇測試機</string>
-    <string name="more_ble_connect_body_composition_meter">體組成計</string>
+    <string name="more_ble_connect_body_fat_meter">體脂計</string>
     <string name="text_ketone">血酮</string>
     <string name="text_cholesterol">膽固醇</string>
     <string name="text_uric_acid">尿酸</string>
@@ -106,6 +106,9 @@
     <string name="more_ble_txt_td4216_cholesterol">1. 輕按膽固醇機右下方按鈕，螢幕即會顯示”BLE”，上方藍色LED燈會開始閃爍\n2. 按頁面下方的「開始配對」</string>
     <string name="more_ble_txt_md6_and_td4172_cholesterol">1. 請先確認膽固醇機的電源是關的\n2. 將膽固醇機左側的開關往下拉一下，螢幕左上方的藍色LED燈會開始閃爍\n3. 按頁面下方的「配對」</string>
     <!--    目前暫無設備-->
+    <!--    體脂計-->
+    <string name="more_ble_txt_w600_and_td2560_fat">1. 請先確認體脂計的電源是關的\n2. 長按體重機上的「SET」按鈕，直到螢幕顯示藍牙圖示\n3. 按頁面下方的「開始配對」</string>
+
 
 
     <string name="now_pair_device">當前裝置%s</string>

@@ -25,7 +25,7 @@ public enum BtDeviceCategoryEnum {
     CHOLESTEROL(R.string.more_ble_connect_cholesterol, TD4216_CHOLESTEROL, MD6_TD4172_CHOLESTEROL),
     STETHOSCOPE(R.string.device_stethoscope, Imedi_Plus_DS101),
     CARD_REDAR(R.string.device_card_reader, ACR3901U_S1),
-    BODY_COMPOSITION_METER(R.string.more_ble_connect_body_composition_meter,W600_TD2560);
+    BODY_COMPOSITION_METER(R.string.more_ble_connect_body_fat_meter,W600_TD2560_FAT);
 
 
     BtDeviceListEnum[] deviceList;

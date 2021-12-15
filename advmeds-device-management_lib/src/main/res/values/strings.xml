@@ -11,7 +11,7 @@
     <string name="more_ble_connect_uric_acid">Uric Acid meter</string>
     <string name="more_ble_connect_ketone">Ketone meter</string>
     <string name="more_ble_connect_cholesterol">Cholesterol meter</string>
-    <string name="more_ble_connect_body_composition_meter">Body composition meter</string>
+    <string name="more_ble_connect_body_fat_meter">Body fat meter</string>
     <string name="text_ketone">Ketone</string>
     <string name="text_cholesterol">Cholesterol</string>
     <string name="text_grip_str">Grip strength</string>
@@ -102,6 +102,10 @@
     <string name="more_ble_txt_td4216_cholesterol">Press the bottom right button of cholesterol measurement, the blue LED of the dongle will start twinkling and the screen will appear "PC". Then please tap on the "Pair" button at upper right corner of this page.</string>
     <string name="more_ble_txt_md6_and_td4172_cholesterol">1. Please make sure the power of the cholesterol measurement is off\n2. Pull down the switch on the left side of the cholesterol measurement, the blue LED on the top left of the screen will start to flash\n3. Click "Pair" at the bottom of the page</string>
     <!--    目前暫無設備-->
+    <!--    體脂計-->
+    <string name="more_ble_txt_w600_and_td2560_fat">1. make sure the power is off body fat meter \n2. Press the "SET" button on weight machines, until the screen displays the Bluetooth icon\n3. Press the top right of the "pairing"</string>
+
+
     <string name="now_pair_device">Current device %s</string>
     <string name="txt_pair_start">Start pairing</string>
     <string name="dialog_message_please_reboot_or_measure_again">Please turn on the device power again and re-measure,then click「Connect to Device」on the page</string>
