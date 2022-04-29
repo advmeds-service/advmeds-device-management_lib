@@ -1,9 +1,14 @@
 package com.advmeds.advmeds_device_management_lib;
 
+import android.bluetooth.BluetoothDevice;
+
 import androidx.annotation.Keep;
 
 import java.io.Serializable;
 
+/**
+ * @author Open-PC
+ */
 @Keep
 public class BleBean implements Serializable {
     private String bleName = "", bleMacAddress = "";
@@ -11,6 +16,7 @@ public class BleBean implements Serializable {
     private String bleConnectName = "";
     private Integer bleState;
     private String SN;
+    private BluetoothDevice bluetoothDevice;
 
     public String getBleName() {
         return bleName;
@@ -62,5 +68,13 @@ public class BleBean implements Serializable {
 
     public void setSN(String SN) {
         this.SN = SN;
+    }
+
+    public BluetoothDevice getBluetoothDevice() {
+        return bluetoothDevice;
+    }
+
+    public void setBluetoothDevice(BluetoothDevice bluetoothDevice) {
+        this.bluetoothDevice = bluetoothDevice;
     }
 }
